@@ -1,0 +1,20 @@
+[13-Mar-2025 16:16:50 Asia/Kolkata] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.31. in /home/softifly/inventorydemoapi.softifly.com/vendor/composer/platform_check.php on line 24
+[25-May-2025 10:53:45 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.32. in /home/scfnaogaon/api.scfnaogaon.org/vendor/composer/platform_check.php on line 24
+[24-Jul-2025 06:36:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:36:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:36:25 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:36:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:37:11 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:37:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:37:51 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:31 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:45 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:47 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:38:56 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:06 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:33 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 65
+[24-Jul-2025 06:39:37 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 108
+[24-Jul-2025 06:39:39 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/scfnaogaon/api.scfnaogaon.org/app/Http/Controllers/Api/TrainingController.php on line 108
